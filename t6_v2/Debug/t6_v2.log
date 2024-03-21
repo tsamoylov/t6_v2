@@ -1,0 +1,20 @@
+﻿  dllmain.cpp
+  Aimbot.cpp
+  Anti Aim.cpp
+  Console.cpp
+  Drawing.cpp
+  Hooks.cpp
+  Math.cpp
+  Menu.cpp
+  Removals.cpp
+  Stats.cpp
+  TargetList.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  t6_v2.vcxproj -> C:\Users\user\Desktop\Cheats\BO2\t6_v2\Debug\t6_v2.dll
